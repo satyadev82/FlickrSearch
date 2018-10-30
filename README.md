@@ -17,7 +17,7 @@ This is a sample application developed for personal learning
 * iOS Support: 10.0 and above
 
 
-### Design pattern followed ###
+### Project Architecture followed ###
 * VIPER
 
 ### How to use it ###
